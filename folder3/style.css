@@ -1,0 +1,74 @@
+        /* Reset margin and padding */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Body styling */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #f9f9f9;
+            background-color: #333;
+            padding: 20px;
+        }
+
+        /* Header styling */
+        h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
+            color: #f9f9f9;
+        }
+
+        
+        /* Section styling */
+        section {
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 80%;
+        }
+
+        /* Subheading styling */
+        h2 {
+            font-size: 1.5em;
+            color: #444;
+            margin-bottom: 8px;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 4px;
+        }
+
+        /* Paragraph and link styling */
+        p {
+            margin-bottom: 10px;
+            color: #555;
+        }
+        a {
+            color: #007acc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Strong text styling */
+        strong {
+            font-weight: bold;
+            color: #333;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            h1 {
+                font-size: 1.8em;
+            }
+            h2 {
+                font-size: 1.3em;
+            }
+        }
