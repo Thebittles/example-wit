@@ -4,13 +4,13 @@ Welcome to my GitHub Pages portfolio! Here, you can explore my projects, each or
 
 ## Projects
 
-- [Project A](./folder1)  
+- [Project 1](https://thebittles.github.io/example-wit/folder1/)  
   A web application designed to manage tasks efficiently, with real-time updates and user authentication.
 
-- [Project B](./folder2)  
+- [Project 2](https://thebittles.github.io/example-wit/folder2/)  
   A responsive e-commerce prototype that features a shopping cart, product pages, and checkout functionality.
 
-- [Project C](./folder3)  
+- [Project 3](https://thebittles.github.io/example-wit/folder3/)  
   A data visualization dashboard displaying interactive charts and analytics insights.
 
 ---
